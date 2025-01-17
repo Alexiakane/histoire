@@ -1,0 +1,36 @@
+Notre héro dans cette histoire est un petit chaton condamné à l'exil par un roi cruel, depuis il parcourt le pays afin d'aider le monde a devenir meilleur...
+on l'appel "El Gato"
+Le maire du village fait appel à notre héro pendant le réveillon parce qu'il est en détresse.
+L'étoile du sapin de noël de la ville a disparue ! Impensable ! Dans ce village il y a une cieille légende qui raconte que le Père Noël
+a besoin de cette étoile magique pour trouver le chemin du village afin de distribuer les cadeaux.
+Autant dire que depuis qu'elle a disparus les parents viennent voir le maire et que la côte de popularité du maire est en chute libre.
+
+Voulez vous aider le maire ? Oui / Non
+
+Non : Vous décidez que cette histoire d'étoile magique et de père Noël c'est pour les bébés, que vous avez des choses beaucoups plus importantes a faire ! 
+
+Oui : Par quoi voulez-vous commencer ? Interroger les témoins / Rechercher des indices
+
+Interroger les témoins : La serveuse de l'auberge / Le boulanger / Une passante
+
+La serveuse de l'auberge : - Bonjour, bienvenue à l'auberge du chat teigne, je m'appelle Juliette que puis-je pour vous ?
+			   - Hola ! On vous cite comme témoin dans l'histoire du vol d'étoile, vous pouvez m'en dire plus ?
+			   - Bien sùr, au début de mon service à 17h elle étit encore là mais après mon service j'ai remplacé Bernard à la plonge.
+			je suis rentrée chez moi vers 3h et elle avait disparu. J'ai remarquer des traces de pas autour de l'arbre mais je n'ai pas reconnus la forme des pattes.
+
+La boulangerie : - Bonjour, bienvenue à la boulangerie Chat Malow, qu'est-ce que je vous sert ?
+	         - Hola ! J'aimerais parler au boulanger s'il vous plaît.
+		 - Je suis Malow le boulanger, c'est pour quoi ?
+		 - On vous cite comme témoin dans l'histoire du vol d'étoile, vous pouvez m'en dire plus ?
+		 - Oui, j'étais dans mon labo entrain de préparer mes tartes à la châteigne quand je me suis aperçue de sa disparition, la fenêtre du labo donne sur l'arbre
+		 je pouvais pas la manquer, il etait au alentour de 2h45 quand j'ai remarqué sa disparition.
+
+La passante : Vous voyez une vieille taupe se diriger vers vous : Claudia : - Bonjour vous êtes l'aventurier qui recherche l'étoile ?
+									    - Si ! c'est moi El Gato.
+									    - J'ai tout vu ! il a pris l'étoile et est partis avec ! 
+									   il ressemblait à une sorte d'elfe mais tout vert il à même perdu son bonnet.
+									Elle vous tend le un bonnet vert avec un pompom blanc au bout.
+
+Rechercher des indices : Regarder autour du sapin / escalader le sapin 
+
+Regarder autour du sapin : Vous faites le tour du sapin 
