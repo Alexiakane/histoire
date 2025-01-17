@@ -13,24 +13,61 @@ Oui : Par quoi voulez-vous commencer ? Interroger les témoins / Rechercher des 
 
 Interroger les témoins : La serveuse de l'auberge / Le boulanger / Une passante
 
-La serveuse de l'auberge : - Bonjour, bienvenue à l'auberge du chat teigne, je m'appelle Juliette que puis-je pour vous ?
-			   - Hola ! On vous cite comme témoin dans l'histoire du vol d'étoile, vous pouvez m'en dire plus ?
-			   - Bien sùr, au début de mon service à 17h elle étit encore là mais après mon service j'ai remplacé Bernard à la plonge.
-			je suis rentrée chez moi vers 3h et elle avait disparu. J'ai remarquer des traces de pas autour de l'arbre mais je n'ai pas reconnus la forme des pattes.
+La serveuse de l'auberge :  - Bonjour, bienvenue à l'auberge du chat teigne, je m'appelle Juliette que puis-je pour vous ?
+							- Hola ! On vous cite comme témoin dans l'histoire du vol d'étoile, vous pouvez m'en dire plus ?
+							- Bien sùr, au début de mon service à 17h elle étit encore là mais après mon service j'ai remplacé Bernard à la plonge.
+							je suis rentrée chez moi vers 3h et elle avait disparu. J'ai remarquer des traces de pas autour de l'arbre mais je n'ai pas reconnus la forme des pattes.
+							Voulez-vous interroger d'autres témoins ou suivre la piste ?
+							(si le joueur suis la piste aller directement à l'embuscade,
+							 si le joueur a déjà interroger les 2 autres témoins proposer d'aller chercher des indices ou de suivre la piste)
 
-La boulangerie : - Bonjour, bienvenue à la boulangerie Chat Malow, qu'est-ce que je vous sert ?
-	         - Hola ! J'aimerais parler au boulanger s'il vous plaît.
-		 - Je suis Malow le boulanger, c'est pour quoi ?
-		 - On vous cite comme témoin dans l'histoire du vol d'étoile, vous pouvez m'en dire plus ?
-		 - Oui, j'étais dans mon labo entrain de préparer mes tartes à la châteigne quand je me suis aperçue de sa disparition, la fenêtre du labo donne sur l'arbre
-		 je pouvais pas la manquer, il etait au alentour de 2h45 quand j'ai remarqué sa disparition.
+La boulangerie :	- Bonjour, bienvenue à la boulangerie Chat Malow, qu'est-ce que je vous sert ?
+	        		- Hola ! J'aimerais parler au boulanger s'il vous plaît.
+					- Je suis Malow le boulanger, c'est pour quoi ?
+					- On vous cite comme témoin dans l'histoire du vol d'étoile, vous pouvez m'en dire plus ?
+					- Oui, j'étais dans mon labo entrain de préparer mes tartes à la châteigne quand je me suis aperçue de sa disparition, la fenêtre du labo donne sur l'arbre
+					je pouvais pas la manquer, il etait au alentour de 2h45 quand j'ai remarqué sa disparition.
+					Voulez-vous interroger d'autres témoins ou suivre la piste ?
+					(si le joueur suis la piste aller directement à l'embuscade,
+					 si le joueur a déjà interroger les 2 autres témoins proposer d'aller chercher des indices ou de suivre la piste)
 
-La passante : Vous voyez une vieille taupe se diriger vers vous : Claudia : - Bonjour vous êtes l'aventurier qui recherche l'étoile ?
-									    - Si ! c'est moi El Gato.
+La passante : Vous voyez une vieille taupe se diriger vers vous : 
+							Claudia :   - Bonjour vous êtes l'aventurier qui recherche l'étoile ?
+										- Si ! c'est moi El Gato.
 									    - J'ai tout vu ! il a pris l'étoile et est partis avec ! 
-									   il ressemblait à une sorte d'elfe mais tout vert il à même perdu son bonnet.
-									Elle vous tend le un bonnet vert avec un pompom blanc au bout.
+										il ressemblait à une sorte d'elfe mais tout vert il à même perdu son bonnet.
+			Elle vous tend le un bonnet vert avec un pompom blanc au bout.
+			Voulez-vous interroger d'autres témoins ou suivre la piste ?
+					(si le joueur suis la piste aller directement à l'embuscade, 
+					si le joueur a déjà interroger les 2 autres témoins proposer d'aller chercher des indices ou de suivre la piste)
 
-Rechercher des indices : Regarder autour du sapin / escalader le sapin 
+Rechercher des indices : Regarder autour du sapin / escalader le sapin à la recherche d'indices là ou se trouvait l'étoile.
 
-Regarder autour du sapin : Vous faites le tour du sapin 
+Escalader le sapin à la recherche d'indices là ou se trouvait l'étoile : 
+						Vous grimpez tout en haut du sapin avec la grâce et l'agilité connu d'El Gato, vous analysez la scène du crime attentivement et trouvez une touffe de poils accroché à une branche.
+						Dans l'excitation d'avoir trouvé une piste serieuse, vous célébrez votre trouvaille en faisant une petite danse.
+						Mais une guirlande accroché à cette branche vous fait glisser, vous chutez du haut de l'arbre et vous vous rompez le cou.
+
+Regarder autour du sapin : Vous faites le tour du sapin, et vous remarquez des drôles de traces de pas. un début de piste peut être suivi.
+						Voulez-vous suivre cette piste ou interroger les temoins ?
+					Voulez-vous interroger d'autres témoins ou suivre la piste ?
+					(si le joueur suis la piste aller directement à l'embuscade, 
+					si le joueur décide d'interroger les témoins et qu'il suit ensuite la piste aller directement à la confrontation avec le voleur)
+
+Embuscade : En suivant la piste que vous avez trouvé, vous arrivez dans une forêt quand sorti de nul part une bande de renard vous encercles et vous vous retrouvez piegé.
+			Deux possibilités se propose à vous : Vous decidez de les menacer avec votre charisme et votre prestence ou vous decidez de les combattre tous ?
+
+menacer : Vous faites le dos rond pour vous rendre plus grand et commencer à grogner... (le joueur lance le dés via le bouton 
+			si le dé affiche un chiffre entre 1 et 3, la menace ne fonctionne pas et l’aventurier se fait détrousser => fin de partie
+			si le dé affiche un chiffre entre 4 et 6 les brigands prennent la fuite.)
+			-la menace ne fonctionne pas : En essayant de grogner, vous recrachez une boule de poils et perdez toute crédibilité envers les brigands il profite alors pour vous attaquez.
+										Même en utilisant votre botte secrète, vous vous retrouvez depasser par le nombre. Les brigands en profite pour vous detrousser et vous vous retrouvez completement nu attaché dans la forêt.
+										On vous retrouvera le lendemain malheureusement trop tard et l'étoile n'ayant pas été retrouvé tout le monde vous rejetes la faute. => fin de partie
+			- la menace fonctionne : Avec votre posture impressionnante et votre présentation tous les brigands frissonnent quand le nom d'El Gato est pronomcé. ils s'excusent immediatement et vous indiques la cachette d'une personne suspecte.
+			(Aller à la confrontation du voleur)
+
+combattre : Vous prenez votre position d'attaque, analysez la situation et... (le joueur lance le dés via le bouton 
+	si le dé lance un chiffre entre 1 et 3, l’attaque ne fonctionne pas et l’aventurier meurt 
+	si le dé affiche un chiffre entre 4 et 6 les brigands sont maîtrisé )
+
+
